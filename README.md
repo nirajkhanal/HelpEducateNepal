@@ -1,1 +1,1 @@
-# [Landing Page for HelpEducateNepal][http://helpeducatenepal.com/]
+# [Landing Page for HelpEducateNepal](http://helpeducatenepal.com/)
